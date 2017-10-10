@@ -1,2 +1,0 @@
-# OOPTest
-OOP features testing
